@@ -49,6 +49,16 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoBarth/DiegoBarth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoBarth/DiegoBarth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiegoBarth/DiegoBarth/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiegoBarth&style=flat-square&color=green" alt="Visualizações Perfil"/>
 </p>
+
+
