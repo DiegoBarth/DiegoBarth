@@ -1,5 +1,5 @@
 - 💻 Engenheiro de software com experiência em back-end (PHP, Node.js) e sólida atuação em análise de dados.
-- 🔍 Atualmente explorando tecnologias como BigQuery, Cloud Functions e SQL avançado.
+- 🔍 Explorando tecnologias como BigQuery, Cloud Functions e SQL avançado.
 - 🌱 Aprendendo sempre: arquitetura de software, liderança técnica e ciência de dados.
 - 🤝 Aberto a colaborações em projetos interessantes, principalmente open source ou educacionais.
 
