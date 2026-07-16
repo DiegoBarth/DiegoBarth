@@ -57,6 +57,15 @@
 
 ---
 
+<h3 align="center">Ouvindo:</h3>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=22fatatz4lfqza7hatqskk4jy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22fatatz4lfqza7hatqskk4jy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiegoBarth&style=flat-square&color=green" alt="Visualizações Perfil"/>
 </p>
